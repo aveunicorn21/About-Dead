@@ -141,4 +141,4 @@ This repository serves as the official landing page for About Dead. The software
 **Get the most recent version of About Dead today!**
 
 ---
-**Last updated:** 2026-11-07 05:48:36 UTC
+**Last updated:** 2026-11-07 12:41:11 UTC
